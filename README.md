@@ -39,10 +39,7 @@ The quality of digital images is often compromised by noise, which manifests as 
 - Use matplotlib to plot side-by-side comparisons of the original and denoised images for visual analysis.
 - Fine-tune filtering parameters to balance noise reduction and detail preservation.
 - Save the processed images for further evaluation or use.
-
-  ### Below is the Python code that uses OpenCV for denoising an image: python
   
-
 ## IV. Conclusion
 
 ## V. Additional Materials
