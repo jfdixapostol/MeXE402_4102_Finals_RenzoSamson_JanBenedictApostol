@@ -1,30 +1,35 @@
 <p align="center">
-# Batangas State University
+<b>Batangas State University</b>
   </p>
 <p align="center">
-The National Engineering University
+<b>The National Engineering University</b>
 </p>
 <p align="center">
-College of Engineering - Department of Electronics Engineering
+<b>College of Engineering - Department of Electronics Engineering</b>
   </p>
 <p align="center">
-Bachelor of Science in Mechatronics Engineering
+<b>Bachelor of Science in Mechatronics Engineering</b>
 </p>
 
 <p align="center">
-MeXE402_4102_Finals_RenzoSamson_JanBenedictApostol
+<b>MeXE402_4102_Finals_RenzoSamson_JanBenedictApostol</b>
   </p>
 <p align="center">
-Final Requirement for the Course MeXEE 402: Electives II - Mechatronics Engineering Elective 2: Data Science and Machine Learning
+<b>Final Requirement for the Course MeXE 402: Electives II: Data Science and Machine Learning</b>
 </p>
-
-
-
-
+<br>
+<br>
 <p align="center">
-Submitted to: Engr. Mikko D. Torres
-Electives 2 Instructor
-December 2024
+<b>Submitted to: Engr. Mikko D. Torres</b>
+</p>
+<p align="center">
+<b>Electives 2 Instructor</b>
+</p>
+<br>
+<br>
+<br>
+<p align="center">
+<b>December 2024</b>
 </p>
 
 ## Table of Contents
