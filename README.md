@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<b>MeXE402_4102_Finals_RenzoSamson_JanBenedictApostol</b>
+<b>MeXEE402_4102_Finals_RenzoSamson_JanBenedictApostol</b>
   </p>
 <p align="center">
 <b>Final Requirement for the Course MeXEE 402: Electives II: Data Science and Machine Learning</b>
