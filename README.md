@@ -16,6 +16,7 @@ Final Requirement for the Course MeXE 402 - Mechatronics Engineering Elective 2:
   - [III. Project Methods](#iii-project-methods)
   - [IV. Conclusion](#iv-conclusion)
   - [V. Additional Materials](#v-additional-materials)
+  - [VI. References](#vi-references)
 <hr> 
 <br>
 
@@ -132,7 +133,27 @@ for image_file in image_files:
     plt.show()
 ```
 
-### Results
+
+
+### *Basic Reducing Noise in Photos*
+
+**Recorded Video demonstrating the code running:**
+
+https://drive.google.com/file/d/1brKrj_ODU2RDF8jSD2PjRyPK3yAUBUOD/view?usp=sharing
+
+**Results:**
+
+![image](https://github.com/user-attachments/assets/04d4c27d-dbf1-48f2-a63f-8d472fa5b0ec)
+
+
+
+### *Adaptive Noise Reduction: Smart Filtering for Enhanced Image Quality*
+
+**Recorded Video demonstrating the code running:**
+
+https://drive.google.com/file/d/1cGeTKZKecBdatNseLUBuowzocDKN6qN5/view?usp=sharing
+
+**Results:**
 
 ![image](https://github.com/user-attachments/assets/5b30169b-4154-4ebb-8ebe-7b49fda3da7e)
 
@@ -145,4 +166,7 @@ for image_file in image_files:
 ![image](https://github.com/user-attachments/assets/26a6d57d-244e-4aea-8739-fe114ade9356)
 
 ![image](https://github.com/user-attachments/assets/fa274982-b98d-40f8-8064-e341fd9e017c)
+
+## VI. References
+
 
