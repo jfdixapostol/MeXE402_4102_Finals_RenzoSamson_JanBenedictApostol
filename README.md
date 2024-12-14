@@ -40,8 +40,10 @@
   - [V. Additional Materials](#v-additional-materials)
   - [VI. References](#vi-references)
   - [VII. Pair](#vii-pair)
-<hr> 
-<br>
+<hr>
+
+# Reducing Noise in Photos
+
 
 ## I. Introduction
 
