@@ -15,7 +15,7 @@
 <b>MeXE402_4102_Finals_RenzoSamson_JanBenedictApostol</b>
   </p>
 <p align="center">
-<b>Final Requirement for the Course MeXE 402: Electives II: Data Science and Machine Learning</b>
+<b>Final Requirement for the Course MeXEE 402: Electives II: Data Science and Machine Learning</b>
 </p>
 <br>
 <br>
@@ -92,6 +92,13 @@
    - **Save Results**: Save the finished jupyter notebook for evaluation.
   
 ## IV. Conclusion
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project demonstrated how to navigate one of the techniques in machine learning, particularly in OpenCV, namely "Reducing Noise in Photos." This technique had three variations, namely <i>Median Filtering</i>, <i>Gaussian Filtering</i>, and <i>Non-local Means</i>, or simply <i>NLM</i>. These applications of techniques depend on what type of image will reduce its noise and the intensity of noise in the picture itself. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges encountered while doing this project is by balancing the noise removal (using the three techniques mentioned above) while preserving the quality of the subject at the same time. As excessive filter may ruin the subject's clarity.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The project outcomes emphasize the importance of reducing noise of photos in achieving the expected outcome for intention of the user itself. In addition, reducing noise in photos is commonly used in medical field especially in laboratory tests for clarity results.
+
 
 ## V. Additional Materials
 <p align="justify">
