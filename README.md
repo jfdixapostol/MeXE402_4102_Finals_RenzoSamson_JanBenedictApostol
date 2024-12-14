@@ -23,7 +23,7 @@
 <b>Submitted to: Engr. Mikko D. Torres</b>
 </p>
 <p align="center">
-<b>Electives 2 Instructor</b>
+<b>Electives II Instructor</b>
 </p>
 <br>
 <br>
